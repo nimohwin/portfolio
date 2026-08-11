@@ -105,7 +105,7 @@ async def portfolio():
 
 
     <div class="assignment">
-        <a href="[https://github.com/nimohwin/gigapi ]" target="_blank">
+        <a href="https://github.com/nimohwin/gigapi" target="_blank">
             <span class="badge">Lesson 3</span>
             <span>Routing, Parameters & Request Bodies</span>
             <span class="lesson-topic">— Path Parameters, Query Parameters, Pydantic Validation</span>
@@ -113,7 +113,7 @@ async def portfolio():
     </div>
 
     <div class="assignment">
-        <a href="[https://github.com/nimohwin/library-api]" target="_blank">
+        <a href="https://github.com/nimohwin/library-api" target="_blank">
             <span class="badge">Lesson 4</span>
             <span>PostgreSQL & SQLModel – Your First Database</span>
             <span class="lesson-topic">— ORM, Database Migrations, SQLModel</span>
@@ -121,7 +121,7 @@ async def portfolio():
     </div>
 
     <div class="assignment">
-        <a href="[   https://github.com/nimohwin/product-api.git]" target="_blank">
+        <a href="https://github.com/nimohwin/product-api.git" target="_blank">
             <span class="badge">Lesson 5</span>
             <span>CRUD Operations</span>
             <span class="lesson-topic">— Create, Read, Update, Delete with Error Handling</span>
@@ -129,7 +129,7 @@ async def portfolio():
     </div>
 
     <div class="assignment">
-        <a href="[ https://github.com/nimohwin/clinicguard-api.git]" target="_blank">
+        <a href="https://github.com/nimohwin/clinicguard-api.git" target="_blank">
             <span class="badge">Lesson 6</span>
             <span>Error Handling & Validation</span>
             <span class="lesson-topic">— HTTPException, Custom Validators, Global Handlers</span>
@@ -137,7 +137,7 @@ async def portfolio():
     </div>
 
     <div class="assignment">
-        <a href="[ https://github.com/nimohwin/Techvault-api.git]" target="_blank">
+        <a href="https://github.com/nimohwin/Techvault-api.git" target="_blank">
             <span class="badge">Lesson 7</span>
             <span>User Authentication – JWT & Password Hashing</span>
             <span class="lesson-topic">— JWT Tokens, bcrypt, Login/Register Endpoints</span>
@@ -145,7 +145,7 @@ async def portfolio():
     </div>
 
     <div class="assignment">
-        <a href="[ https://github.com/nimohwin/JWT-api.git]" target="_blank">
+        <a href="https://github.com/nimohwin/JWT-api.git" target="_blank">
             <span class="badge">Lesson 8</span>
             <span>Authorization & Rate Limiting</span>
             <span class="lesson-topic">— RBAC, Dependency Injection, Rate Limiting</span>
@@ -153,7 +153,7 @@ async def portfolio():
     </div>
 
     <div class="assignment">
-        <a href="[ https://github.com/nimohwin/sendit-api.git]" target="_blank">
+        <a href="https://github.com/nimohwin/sendit-api.git" target="_blank">
             <span class="badge">Lesson 9</span>
             <span>File Uploads & External APIs</span>
             <span class="lesson-topic">— File Validation, httpx, Environment Variables</span>
@@ -161,7 +161,7 @@ async def portfolio():
     </div>
 
     <div class="assignment">
-        <a href="[ https://github.com/nimohwin/Techvault-api.git]" target="_blank">
+        <a href="https://github.com/nimohwin/Techvault-api.git" target="_blank">
             <span class="badge">Lesson 10</span>
             <span>Testing & Deployment (Cloud)</span>
             <span class="lesson-topic">— Pytest, CI/CD, Render Deployment</span>
