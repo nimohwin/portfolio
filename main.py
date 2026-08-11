@@ -103,24 +103,9 @@ async def portfolio():
     <h2> Backend Assignments</h2> 📝
     <p style="color: #7f8c8d; margin-bottom: 20px;">Click on any assignment to view the complete code on GitHub</p>
 
-    <div class="assignment">
-        <a href="[ https://github.com/nimohwin/clinicguard-api.git]" target="_blank">
-            <span class="badge">Lesson 1</span>
-            <span>HTTP & Your First API</span>
-            <span class="lesson-topic">— FastAPI + Uvicorn, HTTP Methods, Status Codes</span>
-        </a>
-    </div>
 
     <div class="assignment">
-        <a href="[ https://github.com/nimohwin/clinicguard-api.git]" target="_blank">
-            <span class="badge">Lesson 2</span>
-            <span>Docker - Packaging Your API</span>
-            <span class="lesson-topic">— Containers, Dockerfiles, Docker Compose</span>
-        </a>
-    </div>
-
-    <div class="assignment">
-        <a href="[ https://github.com/nimohwin/clinicguard-api.git]" target="_blank">
+        <a href="[https://github.com/nimohwin/gigapi ]" target="_blank">
             <span class="badge">Lesson 3</span>
             <span>Routing, Parameters & Request Bodies</span>
             <span class="lesson-topic">— Path Parameters, Query Parameters, Pydantic Validation</span>
